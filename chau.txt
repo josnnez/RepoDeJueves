@@ -1,2 +1,6 @@
-ok
-este deberia tener datos para generar conlfictos.
+
+ok, este deberia tener datos para generar conlfictos.
+
+ok, esta es la despedida
+
+la union final!
